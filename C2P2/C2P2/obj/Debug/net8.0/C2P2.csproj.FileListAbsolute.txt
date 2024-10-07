@@ -1,0 +1,14 @@
+D:\TechnoArt\ASP dotNet\C2P2\C2P2\bin\Debug\net8.0\C2P2.exe
+D:\TechnoArt\ASP dotNet\C2P2\C2P2\bin\Debug\net8.0\C2P2.deps.json
+D:\TechnoArt\ASP dotNet\C2P2\C2P2\bin\Debug\net8.0\C2P2.runtimeconfig.json
+D:\TechnoArt\ASP dotNet\C2P2\C2P2\bin\Debug\net8.0\C2P2.dll
+D:\TechnoArt\ASP dotNet\C2P2\C2P2\bin\Debug\net8.0\C2P2.pdb
+D:\TechnoArt\ASP dotNet\C2P2\C2P2\obj\Debug\net8.0\C2P2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\ASP dotNet\C2P2\C2P2\obj\Debug\net8.0\C2P2.AssemblyInfoInputs.cache
+D:\TechnoArt\ASP dotNet\C2P2\C2P2\obj\Debug\net8.0\C2P2.AssemblyInfo.cs
+D:\TechnoArt\ASP dotNet\C2P2\C2P2\obj\Debug\net8.0\C2P2.csproj.CoreCompileInputs.cache
+D:\TechnoArt\ASP dotNet\C2P2\C2P2\obj\Debug\net8.0\C2P2.dll
+D:\TechnoArt\ASP dotNet\C2P2\C2P2\obj\Debug\net8.0\refint\C2P2.dll
+D:\TechnoArt\ASP dotNet\C2P2\C2P2\obj\Debug\net8.0\C2P2.pdb
+D:\TechnoArt\ASP dotNet\C2P2\C2P2\obj\Debug\net8.0\C2P2.genruntimeconfig.cache
+D:\TechnoArt\ASP dotNet\C2P2\C2P2\obj\Debug\net8.0\ref\C2P2.dll
